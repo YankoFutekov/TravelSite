@@ -7,3 +7,6 @@ This is a single page website that is cross-platform repsonsive, showcasing the 
     * Scrollspy
     * Slider
     * Form Validation
+
+## Here's a link to the website (Deployed on Heroku)
+[TravelSite](https://my-travel-site1.herokuapp.com/index.html "TravelSite")
