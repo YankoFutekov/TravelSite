@@ -6,6 +6,7 @@ This is a single page website that is cross-platform repsonsive, showcasing the 
   * Materialize Framework v0.100.2
     * Scrollspy
     * Slider
+    * Sidenav
     * Materialboxed
     * Form Validation
 
